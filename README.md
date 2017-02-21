@@ -11,10 +11,10 @@ https://docs.google.com/document/d/17oNb4L21PLyGfs8VDycuksB1o8FWvpFD6GhLJ1SMUfM/
 
 ### Contact information
 
-Name | Email | Phone
---- | --- | ---
-Fergus Kelley | fkelley2@student.gsu.edu | 404-923-0157
-Andrew Truong | atruong8@student.gsu.edu | 678-764-4265
-Ryan Ocampo | rocampo3@student.gsu.edu | 770-865-3683
-Deividas Rutkauskas | drutkauskas1@student.gsu.edu | 404-731-1443
-Viraj Shah | vshah15@student.gsu.edu | 770-401-0751
+Name | Email 
+--- | --- 
+Fergus Kelley | fkelley2@student.gsu.edu 
+Andrew Truong | atruong8@student.gsu.edu 
+Ryan Ocampo | rocampo3@student.gsu.edu
+Deividas Rutkauskas | drutkauskas1@student.gsu.edu 
+Viraj Shah | vshah15@student.gsu.edu 
